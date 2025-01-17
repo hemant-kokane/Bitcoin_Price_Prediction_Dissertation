@@ -1,5 +1,5 @@
 # Bitcoin_Price_Prediction_Dissertation
-Comparative Analysis of ARIMA and LSTM Model with Python
+Comparative Analysis of ARIMA and LSTM Model with Python.
 This dissertation package is a well-structured compilation of four essential files:  
 
 1. **Final Thesis Report**: A comprehensive PDF document detailing the research and findings.  
